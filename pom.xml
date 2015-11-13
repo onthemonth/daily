@@ -12,6 +12,4 @@
         <module>myprovider</module>
         <module>myapi</module>
     </modules>
-
-
 </project>
